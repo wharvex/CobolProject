@@ -1,6 +1,6 @@
-#Cobol Project
+# Cobol Project
 
-##Quick Start Zsh/Bash (Tested on WSL Ubuntu Zsh 10/14/24)
+## Quick Start Zsh/Bash (Tested on WSL Ubuntu Zsh 10/14/24)
 
 ```
 git clone ...
